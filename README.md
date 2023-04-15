@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-    <p style="font-size:24px;">💻 <b>Christos, 24 y/o</b> 💻</p>
-    <p style="font-size:20px;"> Athens University of Economics and Business<br>Department of Informatics</br> </p>
+    <p style="font-size:44px;">💻 <b>Christos, 24 y/o</b> 💻</p>
+    <p style="font-size:40px;"> Athens University of Economics and Business<br>Department of Informatics</br> </p>
     <a href="https://www.dept.aueb.gr/en/cs">
         <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
 </div>
