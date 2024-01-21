@@ -1,19 +1,41 @@
-## About me
+# About me
 
-<div id="header" align="center">
+<div align="center" id="header">
   <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
 </div>
 
 <div align="center">
-    <p style="font-size:44px;">💻 <b>Christos, 24 y/o</b> 💻</p>
-    <p style="font-size:40px;"> Athens University of Economics and Business<br>Department of Informatics</br> </p>
-    <a href="https://www.dept.aueb.gr/en/cs">
-        <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
+  <p style="font-size:24px;">💻 <b>Christos, 24 y/o</b> 💻</p>
+  <p style="font-size:20px;"> Studying: <br>Athens University of Economics and Business<br>Department of Informatics</br></br></p>
+  <a href="https://www.dept.aueb.gr/en/cs">
+    <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
+  </a>
+
+  <p style="font-size: 16px;"> Studied: <br>Vilnius University<br>Faculty of Mathematics and Informatics</br></br></p>
+  <a href="https://mif.vu.lt/lt3/en/">
+    <img src="https://img.shields.io/badge/VU-informatics-red">
+  </a>
 </div>
 
+## Languages
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
 ---
-### Connections
+
+## Connections
+
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/christos-patrinopoulos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,4 +46,3 @@
 techristosP/techristosP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
