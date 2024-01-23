@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
- <h4> 🔍 Interested in: Software Engineering, Web Developement, Databases, Artificial Intelligence, Machine Learning </h4>
+ <h4> 🔍 Interested in: Software Engineering, Web Development, Databases, Artificial Intelligence, Machine Learning </h4>
  <h4> 📚 Currently learning: React, NodeJS, MongoDB, CISCO Net Academy </h4>
 </div>
 
