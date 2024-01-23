@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <h2>💻 <b>Christos, 25 y/o</b> 💻</h2>
-  <h4> Currently studying @ <br>Athens University of Economics and Business<br>Department of Informatics</br></br>
+  <h2>💻 Christos, 25 y/o, Greece 💻</h2>
+  <h4> Undergraduate student @ <br>Athens University of Economics and Business - Department of Informatics</br>
     <a href="https://www.dept.aueb.gr/en/cs" target="_blank">
       <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
     </a>
   </h4>
 
-  <h5> Studied @ <br>Vilnius University<br>Faculty of Mathematics and Informatics</br></br>
+  <h5> Studied @ <br>Vilnius University - Faculty of Mathematics and Informatics</br>
   <a href="https://mif.vu.lt/lt3/en/" target="_blank">
-    <img src="https://img.shields.io/badge/VU-informatics-red">
+    <img src="https://img.shields.io/badge/VU-computer%20science-red">
   </a>
   </h5>
   
