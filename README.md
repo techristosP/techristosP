@@ -1,26 +1,26 @@
-# About me
+# 📝About me
 
 <div align="center" id="header">
   <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
 </div>
 
 <div align="center">
-  <p style="font-size:24px;">💻 <b>Christos, 24 y/o</b> 💻</p>
-  <p style="font-size:20px;"> Studying: <br>Athens University of Economics and Business<br>Department of Informatics</br></br>
-    <a href="https://www.dept.aueb.gr/en/cs">
+  <h2>💻 <b>Christos, 25 y/o</b> 💻</h2>
+  <h4> Currently studying @ <br>Athens University of Economics and Business<br>Department of Informatics</br></br>
+    <a href="https://www.dept.aueb.gr/en/cs" target="_blank">
       <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
     </a>
-  </p>
+  </h4>
 
-  <p style="font-size: 16px;"> Studied: <br>Vilnius University<br>Faculty of Mathematics and Informatics</br></br>
-  <a href="https://mif.vu.lt/lt3/en/">
+  <h5> Studied @ <br>Vilnius University<br>Faculty of Mathematics and Informatics</br></br>
+  <a href="https://mif.vu.lt/lt3/en/" target="_blank">
     <img src="https://img.shields.io/badge/VU-informatics-red">
   </a>
-  </p>
+  </h5>
   
 </div>
 
-## Languages & Tools
+## ⚙️Languages & Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -42,17 +42,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 
----
 
-## Connections
+
+## 🔍Connections
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/christos-patrinopoulos/">
+  <a href="https://www.linkedin.com/in/christos-patrinopoulos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a hhref="https://discordapp.com/users/181007449224904704" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
 </div>
 
-<!---
-techristosP/techristosP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 📊Stats
+<div align="center">
+  <!-- ![techristosP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techristosP&theme=gruvbox&show_icons=true&hide_border=false&layout=compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techristosP&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="techristosP's Top Languages"/>
+</div>
+
+
