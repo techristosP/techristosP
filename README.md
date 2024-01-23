@@ -6,18 +6,23 @@
 
 <div align="center">
   <h2>💻 Christos, 25 y/o, Greece 💻</h2>
-  <h4> Undergraduate student @ <br>Athens University of Economics and Business - Department of Informatics</br>
+  <h3> Undergraduate student @ <br>Athens University of Economics and Business - Department of Informatics</br>
     <a href="https://www.dept.aueb.gr/en/cs" target="_blank">
       <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
     </a>
-  </h4>
+  </h3>
 
-  <h5> Studied @ <br>Vilnius University - Faculty of Mathematics and Informatics</br>
+  <h3> Studied @ <br>Vilnius University - Faculty of Mathematics and Informatics</br>
   <a href="https://mif.vu.lt/lt3/en/" target="_blank">
     <img src="https://img.shields.io/badge/VU-computer%20science-red">
   </a>
-  </h5>
+  </h3>
   
+</div>
+
+<div>
+ <h4> 🔍Interested in: Software Engineering, Web Developement, Databases, Artificial Intelligence, Machine Learning </h4>
+ <h4> 📚Currently learning: React, NodeJS, MongoDB, CISCO Net Academy </h4>
 </div>
 
 ## ⚙️Languages & Tools
@@ -44,13 +49,13 @@
 
 
 
-## 🔍Connections
+## 💬Connections
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/christos-patrinopoulos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a hhref="https://discordapp.com/users/181007449224904704" target="_blank">
+  <a href="https://discordapp.com/users/181007449224904704" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
 </div>
