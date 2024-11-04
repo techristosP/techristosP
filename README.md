@@ -9,6 +9,8 @@
   <h3> Junior Software Engineer @ <br>iKnowHealth S.A.</br>
     <a href="https://www.iknowhow.com/" target="_blank">
       <img src="https://img.shields.io/badge/iKnowHow-FFA500">
+    </a>
+    <a href="https://gr.linkedin.com/company/ikhealth">
       <img src="https://img.shields.io/badge/iKnowHealth-LinkedIn-005F6A"
     </a>
   </h3>
