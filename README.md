@@ -6,6 +6,9 @@
 
 <div align="center">
   <h2>💻 Christos, 25 y/o, Greece 💻</h2>
+  <h3> Junior Software Engineer @ <br>iKnowHealth S.A.</br>
+  </h3>
+    
   <h3> Undergraduate student @ <br>Athens University of Economics and Business - Department of Informatics</br>
     <a href="https://www.dept.aueb.gr/en/cs" target="_blank">
       <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
