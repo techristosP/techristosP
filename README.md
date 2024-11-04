@@ -7,9 +7,13 @@
 <div align="center">
   <h2>💻 Christos, 25 y/o, Greece 💻</h2>
   <h3> Junior Software Engineer @ <br>iKnowHealth S.A.</br>
+    <a href="https://www.iknowhow.com/" target="_blank">
+      <img src="https://img.shields.io/badge/iKnowHow-FFA500">
+      <img src="https://img.shields.io/badge/iKnowHealth-LinkedIn-005F6A"
+    </a>
   </h3>
     
-  <h3> Undergraduate student @ <br>Athens University of Economics and Business - Department of Informatics</br>
+  <h3> Computer Science graduate student @ <br>Athens University of Economics and Business - Department of Informatics</br>
     <a href="https://www.dept.aueb.gr/en/cs" target="_blank">
       <img src="https://img.shields.io/badge/AUEB-computer%20science-blue">
     </a>
