@@ -7,8 +7,8 @@
 <div align="center">
   <h2>💻 Christos, 25 y/o, Greece 💻</h2>
   <h3> Junior Software Engineer @ <br>iKnowHealth S.A.</br>
-    <a href="https://www.iknowhow.com/" target="_blank">
-      <img src="https://img.shields.io/badge/iKnowHow-FFA500">
+    <a href="https://[www.iknowhow.com](https://www.iknowhealth.com/)/" target="_blank">
+      <img src="https://img.shields.io/badge/iKnowHealth-005F6A">
     </a>
     <a href="https://gr.linkedin.com/company/ikhealth">
       <img src="https://img.shields.io/badge/iKnowHealth-LinkedIn-005F6A"
